@@ -1,1 +1,1 @@
-# IT-School
+# ITSchool
