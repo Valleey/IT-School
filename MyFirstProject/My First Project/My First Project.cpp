@@ -2,10 +2,20 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+    int numar;
+        numar = 10;
+    cout << "numar = " << numar;
+    char caracter = 'ZF';
+    cout << "character" << caracter << endl;
+
+    const int x = 112;
+    
+    cout << "x=" << x << endl;
+
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

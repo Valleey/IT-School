@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SCVal\\Desktop\\My First Project\\",
+  "WorkspaceRootPath": "C:\\Users\\SCVal\\Desktop\\IT-School\\MyFirstProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51C6AEF5-0661-4D22-A63D-82FE47BB29DC}|My First Project\\My First Project.vcxproj|C:\\Users\\SCVal\\Desktop\\My First Project\\My First Project\\My First Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{51C6AEF5-0661-4D22-A63D-82FE47BB29DC}|My First Project\\My First Project.vcxproj|C:\\Users\\SCVal\\Desktop\\IT-School\\MyFirstProject\\My First Project\\My First Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{51C6AEF5-0661-4D22-A63D-82FE47BB29DC}|My First Project\\My First Project.vcxproj|solutionrelative:My First Project\\My First Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|V:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\iostream||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "iostream",
+              "DocumentMoniker": "V:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\iostream",
+              "ToolTip": "V:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\iostream",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-20T17:26:19.74Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "My First Project.cpp",
-              "DocumentMoniker": "C:\\Users\\SCVal\\Desktop\\My First Project\\My First Project\\My First Project.cpp",
+              "DocumentMoniker": "C:\\Users\\SCVal\\Desktop\\IT-School\\MyFirstProject\\My First Project\\My First Project.cpp",
               "RelativeDocumentMoniker": "My First Project\\My First Project.cpp",
-              "ToolTip": "C:\\Users\\SCVal\\Desktop\\My First Project\\My First Project\\My First Project.cpp",
+              "ToolTip": "C:\\Users\\SCVal\\Desktop\\IT-School\\MyFirstProject\\My First Project\\My First Project.cpp",
               "RelativeToolTip": "My First Project\\My First Project.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-20T16:37:36.205Z",
               "EditorCaption": ""

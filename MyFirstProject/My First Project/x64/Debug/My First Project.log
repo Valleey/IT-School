@@ -1,2 +1,4 @@
 ﻿  My First Project.cpp
-  My First Project.vcxproj -> C:\Users\SCVal\Desktop\My First Project\x64\Debug\My First Project.exe
+C:\Users\SCVal\Desktop\IT-School\MyFirstProject\My First Project\My First Project.cpp(11,19): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\SCVal\Desktop\IT-School\MyFirstProject\My First Project\My First Project.cpp(11,21): warning C4309: 'initializing': truncation of constant value
+  My First Project.vcxproj -> C:\Users\SCVal\Desktop\IT-School\MyFirstProject\x64\Debug\My First Project.exe
