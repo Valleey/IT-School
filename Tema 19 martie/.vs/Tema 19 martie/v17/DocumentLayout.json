@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SCVal\\Desktop\\Tema 19 martie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0E3637-B957-4247-A400-4F60D357552C}|Tema 19 martie\\Tema 19 martie.vcxproj|C:\\Users\\SCVal\\Desktop\\Tema 19 martie\\Tema 19 martie\\Tema 19 martie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF0E3637-B957-4247-A400-4F60D357552C}|Tema 19 martie\\Tema 19 martie.vcxproj|solutionrelative:Tema 19 martie\\Tema 19 martie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tema 19 martie.cpp",
+              "DocumentMoniker": "C:\\Users\\SCVal\\Desktop\\Tema 19 martie\\Tema 19 martie\\Tema 19 martie.cpp",
+              "RelativeDocumentMoniker": "Tema 19 martie\\Tema 19 martie.cpp",
+              "ToolTip": "C:\\Users\\SCVal\\Desktop\\Tema 19 martie\\Tema 19 martie\\Tema 19 martie.cpp",
+              "RelativeToolTip": "Tema 19 martie\\Tema 19 martie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T22:52:52.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
